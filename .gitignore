@@ -22,3 +22,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+node_modules/
+.env
+dist/
+build/
+
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+terraform.tfvars
