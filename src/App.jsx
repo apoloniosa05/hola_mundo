@@ -19,7 +19,7 @@ function App() {
       <h1>Vite + React</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-         ¡Hola saludos profe ! El contador es {count}
+         ¡Modificacion en clase del jueves taller prog web ! El contador actual es {count}
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
